@@ -19,11 +19,11 @@
  </fieldset>
  <br><br>
  
- Value:<input type="text" value="4"><br><br>
+ Value:<input type="text" value="3"><br><br>
 
 <br><br><br>
  
-Result:<input type="text" value="48">
+Result:<input type="text" value="36">
  
  <br/><br>
  <input type="Submit" value="Submit">
